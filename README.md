@@ -12,7 +12,9 @@ Each folder in this repo typically contains a standalone Cargo project focused o
 RustExercises/
 - generic_counter/ # Using generics for a simple counter
 - generic_min/ # Using generics for functions, traits, parameters, and trait bounds
-- trait_logger/ # Using traits for flexible logging
+- log_filter/ # Using closures and traits for filtering logs
+- logger_trait/ # Using traits for flexible logging
+- rot13_cipher/ # Using standard library traits to implement a ROT13 cipher
 - ...
 
 Each subfolder contains:
