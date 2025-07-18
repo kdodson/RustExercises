@@ -10,6 +10,7 @@ Each folder in this repo typically contains a standalone Cargo project focused o
 
 ## 🛠 Structure
 RustExercises/
+- generic_counter/ # Using generics for a simple counter
 - generic_min/ # Using generics for functions, traits, parameters, and trait bounds
 - trait_logger/ # Using traits for flexible logging
 - ...
