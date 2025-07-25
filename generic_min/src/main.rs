@@ -1,6 +1,5 @@
 use std::cmp::Ordering;
 
-// TODO: implement the `min` function used in the tests.
 fn min<T: Ord>(lhs: T, rhs: T) -> T {
     match lhs.cmp(&rhs) {
         Ordering::Less | Ordering::Equal => lhs,

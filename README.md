@@ -10,6 +10,7 @@ Each folder in this repo typically contains a standalone Cargo project focused o
 
 ## 🛠 Structure
 RustExercises/
+- builder_type/ # Using builder pattern for practicing memory management
 - generic_counter/ # Using generics for a simple counter
 - generic_min/ # Using generics for functions, traits, parameters, and trait bounds
 - log_filter/ # Using closures and traits for filtering logs
